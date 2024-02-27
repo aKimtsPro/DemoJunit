@@ -1,2 +1,7 @@
-package be.akimts.java.service;public interface Demo {
+package be.akimts.java.service;
+
+public interface Demo {
+
+    int returns5();
+
 }
